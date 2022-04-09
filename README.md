@@ -34,3 +34,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 [patika.dev](https://app.patika.dev/paths)
+
+[patika.dev linkim](https://app.patika.dev/emrevaljean)
